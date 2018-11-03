@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Raju",
       "image": "5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dhoni",
+      "image": "6.jpg"
     }
   ]
 }
