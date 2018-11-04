@@ -2,32 +2,32 @@
   "users": [
     {
       "id": 1,
-      "name": "Siva",
+      "label": "Siva",
       "image": "1.jpg"
     },
     {
       "id": 2,
-      "name": "Manish",
+      "label": "Manish",
       "image": "2.jpg"
     },
     {
       "id": 3,
-      "name": "Raju",
+      "label": "Raju",
       "image": "3.jpg"
     },
     {
       "id": 4,
-      "name": "Siva",
+      "label": "Siva",
       "image": "4.jpg"
     },
     {
       "id": 5,
-      "name": "Raju",
+      "label": "Raju",
       "image": "5.jpg"
     },
     {
       "id": 6,
-      "name": "Dhoni",
+      "label": "Dhoni",
       "image": "6.jpg"
     }
   ]
