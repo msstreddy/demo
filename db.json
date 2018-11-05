@@ -16,19 +16,25 @@
       "face_path": "154074134324070.jpg",
       "face_id": "14", 
       "label": "Manish", 
-      "label_id": "13"
+      "label_id": "14"
     },
      {
      "face_path": "15407415324071.jpg",
-     "face_id": "14", 
+     "face_id": "15", 
      "label": "Teja", 
-     "label_id": "14"
+     "label_id": "15"
     }, 
      {
      "face_path": "392347582344.jpg",
-     "face_id": "15", 
+     "face_id": "16", 
      "label": "Raju", 
-     "label_id": "15"
+     "label_id": "16"
+    },
+    {
+     "face_path": "392347582344.jpg",
+     "face_id": "17", 
+     "label": "sai", 
+     "label_id": "17"
     }
   ]
 }
